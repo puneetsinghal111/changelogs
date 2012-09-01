@@ -1,3 +1,23 @@
+<h2>PayPlans 2.1.6.2856 (24-08-2012)</h2><ul>
+<li>Configuration for micro-subscription provided</li>
+<li>Edit icon provided when there is nothing to display for parameter "Set Expiration Time"</li>
+<li>Handle condition when data comes from editor work on event onPrepareContent  and onContentprepare</li>
+<li>Cache issue fixed in menu access app with joomla1.5</li>
+<li>Bug fixed in sobipro app, now user can edit their entries</li>
+<li>Patch created to changed order_status parameter to subscription_status parameter at configuration.</li>
+<li>Bug fixed in pagseguro payment app, amount was not set in transaction</li>
+<li>Added cancel button in offline payment</li>
+<li>Bug fix in upgrade and added feature to apply automatic discount on upgrade</li>
+<li>Language string added for patch</li>
+</ul>
+
+<h2>PayPlans 2.1.5.2824 (14-08-2012)</h2><ul>
+<li>Bug fixed for auto login plugin. now user will be auto logined only after subscription active</li>
+<li>Bug fixed in email app attachment</li>
+<li>Bug fixed in patch if upgrade_from=0</li>
+</ul>
+
+
 <h2>PayPlans 2.1.4.2813 (09-08-2012)<br></h2><p><b>Bug Fixes</b></p><ul>
 <li>"Xitext" element is added in Payplans. It can be used in  Subscription  detail app and User detail app for Patter Matching  validation in Text  Box.</li>
 <li>Support for Kunena 2.0 is added in Kunena App.</li>
